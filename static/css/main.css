@@ -294,7 +294,7 @@ section .main-body {
         top: auto;
         height: auto;
         max-width: 100%;
-        margin: 24px auto;
+        margin: -75px auto 24px;
         text-align: center;
     }
 
