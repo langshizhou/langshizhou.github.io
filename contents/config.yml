@@ -18,10 +18,12 @@ sections:
     nav: HOME
     title: Langshi Zhou&ensp;|&ensp;周朗石
     href: '#page-top' # Default to '#<id>' if not specified
+    
   - id: publications
     nav: PUBLICATIONS
     title: PUBLICATIONS
     icon: bi-file-text-fill
+    
   - id: awards
     nav: AWARDS
     title: AWARDS
