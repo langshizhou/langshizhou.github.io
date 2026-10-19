@@ -262,3 +262,23 @@ section .main-body {
         animation: none;
     }
 }
+    
+.profile-links {
+    margin-top: 12px;
+    text-align: center;
+    font-size: 0.9rem;
+    line-height: 1.8;
+}
+
+.profile-links a {
+    color: #3948d2;
+    text-decoration: none;
+}
+
+.profile-links a:hover {
+    text-decoration: underline;
+}
+
+.profile-links span {
+    color: #888;
+}
