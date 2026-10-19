@@ -264,9 +264,9 @@ section .main-body {
 }
     
 .profile-links {
-    margin-top: 12px;
+    margin-top: 28px;
     text-align: center;
-    font-size: 0.9rem;
+    font-size: 1.5rem;
     line-height: 1.8;
 }
 
