@@ -283,6 +283,22 @@ section .main-body {
     color: #888;
 }
 
-#home header {
+#home header { /*隐藏大字标题*/
     display: none;
+}
+
+@media screen and (max-width: 991px) { /*防止手机版上，照片下链接和正文重叠*/
+    #avatar {
+        float: none;
+        position: relative;
+        top: auto;
+        height: auto;
+        max-width: 100%;
+        margin: 24px auto;
+        text-align: center;
+    }
+
+    #home {
+        padding-top: 1rem;
+    }
 }
