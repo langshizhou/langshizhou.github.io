@@ -19,17 +19,17 @@ sections:
     title: Langshi Zhou&ensp;|&ensp;周朗石
     href: '#page-top' # Default to '#<id>' if not specified
 
-  - id: updates
-    nav: UPDATES
-    title: UPDATES
+  # - id: updates
+  #   nav: UPDATES
+  #   title: UPDATES
 
     
-  - id: publications
-    nav: PUBLICATIONS
-    title: PUBLICATIONS
-    #icon: bi-file-text-fill
+  # - id: publications
+  #   nav: PUBLICATIONS
+  #   title: PUBLICATIONS
+  #   #icon: bi-file-text-fill
     
-  - id: awards
-    nav: AWARDS
-    title: AWARDS
-    #icon: bi-award-fill
+  # - id: awards
+  #   nav: AWARDS
+  #   title: AWARDS
+  #   #icon: bi-award-fill
