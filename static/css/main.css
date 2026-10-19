@@ -282,3 +282,7 @@ section .main-body {
 .profile-links span {
     color: #888;
 }
+
+#home header {
+    display: none;
+}
